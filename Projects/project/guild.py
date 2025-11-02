@@ -1,4 +1,4 @@
-from project.player import Player
+from food.project import Player
 
 
 class Guild:

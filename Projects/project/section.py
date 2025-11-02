@@ -1,4 +1,4 @@
-from Projects.project.task import Task
+from food.project import Task
 
 class Section:
     def __init__(self, name:str):

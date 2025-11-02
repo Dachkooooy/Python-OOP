@@ -1,4 +1,4 @@
-from project.pokemon import Pokemon
+from food.project import Pokemon
 
 
 class Trainer:

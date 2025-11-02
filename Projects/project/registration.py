@@ -1,5 +1,5 @@
-from project.library import Library
-from project.user import User
+from food.project import Library
+from food.project import User
 
 
 class Registration:

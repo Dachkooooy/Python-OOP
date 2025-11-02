@@ -1,5 +1,5 @@
-from project.album import Album
-from project.song import Song
+from food.project import Album
+from food.project import Song
 
 class Band:
     def __init__(self, name:str):
