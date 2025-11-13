@@ -1,4 +1,4 @@
-from project.animal import Animal
+from restaurant.project import Animal
 
 class Cheetah(Animal):
     def __init__(self, name, gender, age):

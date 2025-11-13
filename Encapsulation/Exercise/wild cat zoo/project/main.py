@@ -1,10 +1,10 @@
-from project.caretaker import Caretaker
-from project.cheetah import Cheetah
-from project.keeper import Keeper
-from project.lion import Lion
-from project.tiger import Tiger
-from project.vet import Vet
-from project.zoo import Zoo
+from restaurant.project import Caretaker
+from restaurant.project import Cheetah
+from restaurant.project import Keeper
+from restaurant.project import Lion
+from restaurant.project import Tiger
+from restaurant.project import Vet
+from restaurant.project import Zoo
 
 
 zoo = Zoo("Zootopia", 3000, 5, 8)

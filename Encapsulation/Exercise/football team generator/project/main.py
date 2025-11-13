@@ -1,7 +1,7 @@
 import unittest
 
-from project.player import Player
-from project.team import Team
+from restaurant.project import Player
+from restaurant.project import Team
 
 
 class Tests(unittest.TestCase):

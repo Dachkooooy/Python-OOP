@@ -1,4 +1,4 @@
-from project.worker import Worker
+from restaurant.project import Worker
 
 class Keeper(Worker):
     pass

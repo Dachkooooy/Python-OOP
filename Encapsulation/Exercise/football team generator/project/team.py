@@ -1,4 +1,4 @@
-from project.player import Player
+from restaurant.project import Player
 
 
 class Team:
